@@ -16,6 +16,12 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-09-16** — ByteDance spins off Anew Labs, $290M at $1.5B (HSG/IDG/Hillhouse, 5Y co-lead, ByteDance keeps 56%): Protenix/PXDesign + 4 candidates incl. AI IL-17 inhibitor; ~50 staff + platform/pipeline move; Volcano Engine compute; first external round, AI-for-science commercialization step. https://www.straitstimes.com/business/bytedance-completes-369-million-fund-raising-for-ai-drug-unit-after-its-spin-off-sources-say / https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery
+
+- **2026-09-16** — Novo + Anthropic drug-discovery collaboration: Claude Science in R&D workflows + frontier models for agentic software eng; "world's most AI-driven healthcare company"; follows Novo+AWS/OpenAI/NVIDIA stack; robust governance + human oversight. https://www.politico.eu/article/novo-turns-to-anthropic-to-turbocharge-medical-research/
+
+- **2026-09-16** — Twist joins Lilly TuneLab as preferred antibody-data provider: wet-lab characterization feeds AbLab developability model (Benchling/Catalyze360); preferred protocols + pricing, data back for federated training. https://www.stocktitan.net/news/TWST/twist-bioscience-joins-lilly-tune-lab-to-advance-antibody-drug-denym8glkqmx.html
+
 - **2026-09-15** — Insilico Longevity Vaccines: circular-mRNA + targeted-LNP in vivo T-cell engineering to clear earliest age-related drivers (senescent lymphocytes first); PandaOmics/Chemistry42/inClinico + Virtual Aging Cell stack; extends rentosertib dual-purpose aging strategy; 9 candidates in 8 mo 2026. https://www.news-medical.net/news/20260915/Insilico-Medicine-launches-AI-initiative-to-develop-longevity-vaccines.aspx
 
 - **2026-09-15** — Mithrl $20M Series A (Obvious-led) for biopharma AI infrastructure: Mithrl-1 biomedical world model + agentic harness, forward-deployed, no model lock-in; 16x evidence/answer, 0.96 correctness, 45% fewer tokens, 6+ client patents claimed. https://investor.wedbush.com/wedbush/article/bizwire-2026-9-15-mithrl-raises-20m-to-bring-custom-ai-infrastructure-to-biopharma-grounded-in-its-biomedical-world-model
@@ -35,12 +41,6 @@ traced back to the document it was extracted from.
 - **2026-09-14** — Inductive Bio launches Indy medicinal-chemistry agent: CRO parse + curve QC + SAR + FEP + slides, doubled team productivity claimed; 89% vs 39% GPT-5.6 Sol vs 48% Claude Opus 5 on 84 real dose-response curves; Anvia live use. https://www.prnewswire.com/news-releases/inductive-bio-launches-indy-an-ai-chemistry-assistant-to-double-the-capacity-of-every-medicinal-chemist-302877082.html
 
 - **2026-09-14** — MoleculeMind QuantaMind (Sci Adv): transition-state reactive MLFF, DFT accuracy, tens-of-ns MD on 10k atoms, 100k-atom step 0.25s; full enzyme-cycle claim; pH-sensitive antibody 62x dissociation shift pH 6.0/7.4. https://www.prnewswire.com/news-releases/ai-driven-reactive-modeling-platform-quantamind-research-published-in-science-advances-advancing-a-new-paradigm-in-ai-powered-molecular-rd-302877464.html
-
-- **2026-09-15** — LG EXAONE Discovery: 420k compounds/24h → Rhamsydil non-steroidal female hair-loss candidate for Dr. Groot; World Congress for Hair Research; on-premise field-ready expert AI. https://kr.ibtimes.com/lg-ai-screened-compounds-hair-loss-candidate-101590
-
-- **2026-09-14** — Electra $325M IPO terms: 21.7M shares $14–$16, ~$976M FD; pan-SIRP ipsoprubart in registrational Ph2/3 SURPASS sHLH (Ph1b 100% OS/ORR n=12), ELA822 SIRPγ Ph1 EU Aug 2026; prices Sep 17; late-stage antibody IPO window test. https://www.renaissancecapital.com/IPO-Center/News/121638/antibody-biotech-electra-therapeutics-sets-terms-for-325-million-ipo
-
-- **2026-09-14** — Proteina SPID validation-bottleneck pitch: 10k antibodies/week, 100k/mo Q1 2027, 1M/mo 2028; binding+productivity+stability on one platform, 2–3 yr → 3–6 mo claimed; 500k datapoints with SNU training AI; explicit model-commoditization thesis. https://en.edaily.co.kr/news/eda202609145031/
 
 - **2026-09-14 / 2026-09-03** — UCSF DeGrado LLM-alone binders (bioRxiv 2026.09.02.748987): Claude/ChatGPT/Gemini reasoned-design metal + PFOA binders, 6–12 designs/query, 25% hit; rationale supplied with sequences. https://www.biorxiv.org/content/10.64898/2026.09.02.748987v1
 
