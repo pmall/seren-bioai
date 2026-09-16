@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paying for the missing data — Protein to Pill</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<nav>
+  <a href="../index.html">Protein to Pill</a>
+</nav>
+
+<article>
+  <header>
+    <h1>Paying for the missing data</h1>
+    <time datetime="2026-09-16">16 September 2026</time>
+  </header>
+
+  <p>Within about twenty-four hours, four different actors attacked the same problem from four different sides: there is not enough good biology data to train on, so someone has to pay to create it, pool it, or give it away. <a href="https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/">The OpenAI Foundation launched Data for Public Health with $40M for UNC cancer-vaccine data collection</a>, <a href="https://au.finance.yahoo.com/news/enveda-launching-next-alphafold-contest-120700676.html">Enveda revived the CASMI small-molecule identification contest as a $50k Kaggle competition feeding its PRISM foundation model</a>, <a href="https://lifestyle.pluralist.com/story/874143/therna-biosciences-releases-chronos-the-data-engine-behind-its-ai-rna-biologist/">Therna Biosciences open-released Chronos, the mRNA measurement engine behind its RNA biologist</a>, and <a href="https://investor.wedbush.com/wedbush/article/bizwire-2026-9-15-mithrl-raises-20m-to-bring-custom-ai-infrastructure-to-biopharma-grounded-in-its-biomedical-world-model">Mithrl raised a $20M Series A to sell grounded biomedical AI infrastructure to pharma</a>. The scarce input was never the model. This week it got buyers.</p>
+
+  <h2>A foundation starts buying datasets</h2>
+  <p>The most unusual entrant is not a biotech at all. The OpenAI Foundation — <a href="https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/">which holds 26% of OpenAI equity and aims at $1B in grants by year-end</a> — made biology data creation its second science program, with the explicit thesis that data is the biggest bottleneck. The money so far: $40M to UNC, support for OpenAdmet prediction competitions, and $500k to 1Day Sooner for a "biotech's lost archive" of bankrupt companies' regulatory documents for AI copilots.</p>
+
+  <p>The UNC detail matters: <a href="https://news.unchealthcare.org/2026/09/unc-lineberger-secures-40m-from-openai-foundation-to-make-cancer-vaccines-more-effective/">hundreds of de-identified tumor and immune samples from three biobanks to train antigen-selection AI, with parallel comparisons of vaccine formulations in triple-negative breast cancer trials</a>, and outputs committed as open-access datasets. That is data creation with an experimental design attached — not scraping what exists, but funding the measurements that should exist, then giving them away. Two bids already failed this year and three datasets are held, two of them donated — so the foundation is learning in public that buying good data is harder than funding it.</p>
+
+  <h2>A dormant benchmark wakes up</h2>
+  <p><a href="https://au.finance.yahoo.com/news/enveda-launching-next-alphafold-contest-120700676.html">Enveda's CASMI 2026 runs September 14 to December 14 on Kaggle</a>, reviving the Critical Assessment of Small Molecule Identification — founded in 2012, silent since 2022 — with about 400 unpublished molecules and 2,500 spectra as the blind test, 2.5M spectra for training including Enveda-180, and winning methods open-sourced as a persistent benchmark. The framing as the next AlphaFold contest is deliberate, and the underlying number justifies it: only about 10% of untargeted mass-spec signals are identifiable today.</p>
+
+  <p>The loop back into product is explicit: everything feeds <strong>PRISM</strong>, the Microsoft-built foundation model trained on over a billion spectra. Enveda pairs the open contest with pipeline proof — ENV-308 Phase 1 positive last month, ENV-294 at 85% mean reduction in Phase 1b atopic dermatitis earlier this year. Give away the benchmark, keep the engine it trains.</p>
+
+  <h2>An RNA data factory opens its doors — halfway</h2>
+  <p><a href="https://lifestyle.pluralist.com/story/874143/therna-biosciences-releases-chronos-the-data-engine-behind-its-ai-rna-biologist/">Therna's Chronos crosses tens of thousands of synthetic mRNAs with 50 human cell lines over time</a>, producing millions of functional RNA measurements per experiment where the convention is one mRNA, one cell type, one timepoint. Two datasets — Penta-47x27K and Tria-47x28K — are on Hugging Face with a white paper, aimed at sequence-to-function models for expression, stability, and cell-type specificity.</p>
+
+  <p>The reservation is as informative as the release: the immune-cell Chronos set stays proprietary. Open weights and open subsets for the community, closed data where the therapeutic value concentrates — the same "release the model, keep the measurements" equilibrium as <a href="https://www.nature.com/articles/d41586-026-02882-x">the AISB Network pooling 20,167 proprietary structures to beat public-data models by double digits</a>, except here one company plays both sides of the line itself.</p>
+
+  <h2>Grounded infrastructure gets funded</h2>
+  <p><a href="https://investor.wedbush.com/wedbush/article/bizwire-2026-9-15-mithrl-raises-20m-to-bring-custom-ai-infrastructure-to-biopharma-grounded-in-its-biomedical-world-model">Mithrl's $20M Series A, led by Obvious Ventures, sells the same diagnosis as a product</a>: a biomedical world model under an agentic harness, forward-deployed inside client environments with no model lock-in, pitched against the hypothesis-generation flood with "reason from trusted studies, show receipts plus confidence." The claimed numbers — 16x more primary evidence per answer, 0.96 versus 0.60 scientific-correctness score, 45% fewer tokens, six-plus customer-owned patent filings — are vendor numbers from a launch announcement, not an independent benchmark, and should be read that way.</p>
+
+  <p>Still, the direction of travel is consistent across all four stories: the buyer is no longer asking for a smarter generator. They are asking for grounding — evidence attached, confidence stated, private data reachable without leaving the building. That is infrastructure language, not model language.</p>
+
+  <h2>What to watch</h2>
+  <p>Whether any of this compounds. A one-off $40M grant, a three-month contest, two open datasets, and a Series A are inputs, not outcomes. The tests are concrete: do the UNC open datasets get reused by groups that never touched cancer vaccines; does CASMI produce methods that survive contact with the 90% of unidentifiable spectra rather than the leaderboard; does Chronos train RNA models that design better sequences rather than merely describing old ones; does Mithrl's correctness score hold up inside a top-10 pharma's live portfolio. The field spent years learning that intelligence is widely shared and measurements are not. This week, for the first time, the money started acting like it.</p>
+
+  <footer>
+    <p><a href="../index.html">&larr; Home</a></p>
+  </footer>
+</article>
+
+</body>
+</html>
