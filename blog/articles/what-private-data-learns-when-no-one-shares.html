@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What private data learns when no one shares — Protein to Pill</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<nav>
+  <a href="../index.html">Protein to Pill</a>
+</nav>
+
+<article>
+  <header>
+    <h1>What private data learns when no one shares</h1>
+    <time datetime="2026-09-17">17 September 2026</time>
+  </header>
+
+  <h2>A network of five pharmas pooled 20,167 proprietary structures to fine-tune OpenFold3 — and beat both the open model and company silos</h2>
+  <p>Five pharmaceutical companies contributed a combined 20,167 proprietary protein-ligand structures to train OpenFold3 on a task it gets wrong more often than right: predicting how a ligand binds to a protein it has never seen before. The result, reported in a <a href="https://www.nature.com/articles/d41586-026-02882-x">Nature news article</a>, was a model that scored high accuracy on over 50% of 1,056 held-out complexes — roughly 17 percentage points above the public OpenFold3 baseline of ~33%, and roughly 11 points above Boltz-2 at ~40%.</p>
+  <p>The gap between pooled and siloed is the more interesting number. Each company trained OpenFold3 on its own data alone, and no single silo approached the pooled result. The finding has a simple reading: private datasets carry patterns that no individual pharma has enough of, but that emerge when the data is combined — even if the model never sees the raw structures from the other contributors.</p>
+
+  <h2>The generalization gap is the bottleneck nobody has solved alone</h2>
+  <p>Structure prediction transformed biology when AlphaFold3 solved it for known families. Drug discovery, however, lives in unexplored biological space — proteins and ligands that do not appear in training sets. The Stanford AI Index 2026 <a href="https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_6_medicine.pdf">quantifies this precisely</a>: designs fold correctly 86% of the time, but bind targets less than 10% of the time. Folding is solved; binding is not.</p>
+  <p>Deep Origin's DODock shows the gap from another direction: co-folding models drop below 25% pose accuracy on novel targets, while DODock maintains above 50% with physics-based refinement. The generalization gap is not a model-capacity problem — it is a data-coverage problem. OpenFold3 trained on public structures learns the same structural families every other lab already knows.</p>
+
+  <h2>What pooled data buys that siloed data cannot</h2>
+  <p>The AISB Network's approach was straightforward: each company kept its data on-premise, fine-tuned OpenFold3 on what it had, and shared only the resulting model updates. The pooled model was then evaluated on a held-out benchmark of 1,056 complexes — none of which appeared in any contributing company's dataset.</p>
+  <p>The mechanism is straightforward too. Each pharma's dataset covers its own therapeutic areas and structural families. No single company has breadth across all target classes. Pooling increases coverage without anyone surrendering their raw data — the kind of arrangement that makes competitive intelligence available without making it accessible.</p>
+  <p>The result is a model that generalizes across structural families it would never learn from any single company's data. High-accuracy predictions on a larger fraction of held-out test cases means more reliable virtual screening, better lead optimization, and fewer wet-lab failures from structures the model has never seen.</p>
+
+  <h2>The catch: a blog post, not a paper</h2>
+  <p>The result was published as a blog post, not a peer-reviewed paper, and the model is not publicly available. This matters. The field's credibility hinges on independent validation — the AIntibody benchmark established that precedent with its blinded, wet-lab-validated antibody competition. A pooled-structure result without a peer-reviewed methodology and an available model is a signal, not a proof.</p>
+  <p>The data-sharing model itself is also constrained. Five companies pooling structures is a proof of concept; scaling it requires solving the governance, IP, and regulatory questions that make pharma data-sharing rare. The <a href="https://www.nature.com/articles/d41586-026-02882-x">Nature report</a> notes that the network is a UK OpenBind counterpart — but the underlying dataset stays private, and the model stays behind the participating companies' firewalls.</p>
+
+  <h2>What it means for the field</h2>
+  <p>The result is a data point for a thesis that is becoming hard to ignore: the moat in AI drug discovery is proprietary experimental data, not model weights. Aureka <a href="https://www.techtimes.com/articles/323933/20260811/aureka-open-sources-antibody-ai-that-beats-alphafold-3-closes-100m-drug-discovery-round.htm">open-sourced its antibody model</a> and outperforms AlphaFold 3 on antibody-antigen tasks, keeping the lab-in-the-loop data flywheel as the competitive advantage. ESMFold2 from CZ Biohub <a href="https://www.nature.com/articles/d41586-026-01686-3">surpasses AlphaFold 3</a> on complex prediction and is MIT-licensed. The open-source trajectory is clear: model weights depreciate; data accrues value.</p>
+  <p>AISB adds a wrinkle to this thesis. The data carries a number now — a concrete accuracy advantage measured on a held-out benchmark. If the model stayed private and the data stayed siloed, neither company would have gotten this result. Pooling was the only path to a number that none of them could produce alone.</p>
+  <p>The question is whether this stays a five-company demonstration or becomes a template. Lilly's TuneLab, where biotechs run models locally and share only federated updates, suggests the infrastructure for private data sharing is arriving. Twist joining TuneLab as a preferred antibody-data provider extends that model from federated learning to wet-lab characterization data. The pattern — run locally, share updates, keep the raw data — is becoming the default for how pharma collaborates on AI without surrendering its IP.</p>
+  <p>AISB's 20,167 structures demonstrate the same pattern at a different scale: pooled private data outperforms the public alternatives, and no single company can replicate the result alone. The generalization gap is a data-coverage problem, and data coverage is a cooperation problem. The model that learns from five companies' data beats the model that learns from any one of them.</p>
+
+  <footer>
+    <p><a href="../index.html">← Home</a></p>
+  </footer>
+</article>
+
+</body>
+</html>
