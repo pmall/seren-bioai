@@ -43,4 +43,7 @@ style.css ships with obviously placeholder colors (white, black, blue, gray, lig
 
 ## Organization
 
-blog/ grows however makes sense to you as articles accumulate — new folders, categories, an archive, are all fair game. As the count grows, how the index presents them (an archive, pagination, highlights) is part of that same judgment call: whatever keeps it something a person would actually want to open, not a wall of every link that ever existed.
+- index.html shows only the 10 most recent articles, most recent first. When a new article is published and the list would exceed 10, move the oldest entry to archive.html.
+- archive.html is a simple title+date list (newest first) of every published article. Insert the new entry at the top.
+- Articles live in blog/articles/, one HTML file per article, with a matching entry added to both index.html and archive.html when published.
+- "What's on the radar" sits below articles on index.html and holds things not yet worth a full article — update it freely.
