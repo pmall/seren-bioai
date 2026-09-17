@@ -26,7 +26,6 @@ traced back to the document it was extracted from.
 
 - **2026-09-15** — Mithrl $20M Series A (Obvious-led) for biopharma AI infrastructure: Mithrl-1 biomedical world model + agentic harness, forward-deployed, no model lock-in; 16x evidence/answer, 0.96 correctness, 45% fewer tokens, 6+ client patents claimed. https://investor.wedbush.com/wedbush/article/bizwire-2026-9-15-mithrl-raises-20m-to-bring-custom-ai-infrastructure-to-biopharma-grounded-in-its-biomedical-world-model
 
-- **2026-09-09** — Chow et al. Nature BME: 1,758 AI minibinders as CARs (BCMA/CD19/CD22); failure modes = tonic signalling (net charge r=0.65), CD81-patch epitope occlusion, off-target; CARPNN B5.I0 matches/beats clinical scFv + cilta-cel VHH at 1:10 burden. https://www.nature.com/articles/s41551-026-01790-9
 
 - **2026-09-15** — OpenAI Foundation Data for Public Health: $40M UNC cancer-vaccine data (Vincent/Rubinsteyn, 3 biobanks, TNBC formulation trials, open-access datasets) + OpenAdmet + $500k biotech-bankruptcy archive (1Day Sooner) for regulatory AI copilots; "data is biggest bottleneck" thesis; $1B grants aim. https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/ / https://news.unchealthcare.org/2026/09/unc-lineberger-secures-40m-from-openai-foundation-to-make-cancer-vaccines-more-effective/
 
@@ -45,6 +44,18 @@ traced back to the document it was extracted from.
 - **2026-09-14 / 2026-09-03** — UCSF DeGrado LLM-alone binders (bioRxiv 2026.09.02.748987): Claude/ChatGPT/Gemini reasoned-design metal + PFOA binders, 6–12 designs/query, 25% hit; rationale supplied with sequences. https://www.biorxiv.org/content/10.64898/2026.09.02.748987v1
 
 - **2026-09-13** — Moonwalk $70M Series B (Alpha Wave/YK, Lilly/ARCH/Khosla) for adipose-targeted siRNA MW101, FIH late 2027, $127M total; preclinical fat-loss + lean-mass preservation, quarterly dosing hope — quality-weight-loss lane. https://business-news-today.com/moonwalk-biosciences-secures-70m-series-b-for-adipose-targeted-rnai/
+
+- **2026-09-15** — GSK picks up preclinical trispecific TCE for multiple myeloma from Chimagen (up to $750M, clinic 2027); second GSK–Chimagen TCE deal after 2024 CMG1A46 ($300M upfront/$850M); pitched vs approved bispecifics with CRS/neuro boxed warnings; China-originated TCE/ADC supply line (Hansoh ris-rez OS 18.5mo SCLC). https://www.biospace.com/deals/gsk-bags-chimagens-trispecific-t-cell-engager-in-deal-worth-up-to-750m
+
+- **2026-09-16** — Novartis halts VHB937 TREM2 ALS program after Ph2 ASTRALS miss — 4th stumble in <1 month (pelacarsen, del-desiran, rap-cel pauses); board scrutiny; Axoltis NX210c also missed primary but continues on post-hoc signal. https://www.biospace.com/drug-development/novartis-halts-trem2-targeting-als-program-in-4th-trial-stumble-in-a-month
+
+- **2026-09-16** — Phanes granted US patent US12,735,481 for PACbody bispecific platform (native IgG, mAb-compatible CMC); spevatamig CLDN18.2xCD47 Ph2 + Merck combo, ODD/Fast Track; platform-IP fortification. https://www.biospace.com/press-releases/phanes-therapeutics-announces-us-patent-granted-to-its-proprietary-bispecific-antibody-technology-platform-pacbody
+
+- **2026-09-14** — GATC Health joins C-Path NAMs-DC as first AI-native member: Operon in-silico platform into regulatory validation/qualification of NAMs; "no accepted framework for evaluating AI models" — qualification track parallel to QMIN digital twins. https://natlawreview.com/press-releases/gatc-health-joins-critical-path-institutes-new-approach-methodologies
+
+- **2026-09-09** — Schrödinger co-founds Tectora (NEA + RA Capital, $55M Series A): contributes SDGR-4594/8139 oral I&I programs for equity + milestones/royalties; Nimbus/Morphic/Structure/Ajax company-builder track (>$750M proceeds). https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Announces-Licensing-and-Collaboration-Agreement-with-Tectora-Therapeutics-a-New-Biotechnology-Company-It-Co-founded-to-Advance-Immunology-and-Inflammation-Programs/default.aspx
+
+- **2026-09-16** — Novo + Anthropic depth: no financials; Claude Science pilot + agentic software eng; follows OpenAI (Apr) + AWS hub; BMS–Anthropic (May) comp; Claude already automates trial reports months→minutes. https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540
 
 - **2026-09-13** — Novartis $12B Avidity thesis test: del-desiran HARBOR vHOT miss; 2 remaining AOC shots (del-zota FDA priority DMD-exon44, del-brax FSHD) must carry deal; −10.9% (~$32B) reprices growth-to-2030 + pelacarsen overhang; Dyne −18% readthrough but constructs differ. https://pharmadevicenews.com/novartis-paid-12bn-for-avidity-biosciences-what-does-del-desirans-phase-3-failure-do-to-the-deal-thesis/
 
