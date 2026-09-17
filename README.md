@@ -35,7 +35,7 @@ Once it behaves the way you want, you can let it run on its own:
 6. **Enable GitHub Pages.** Settings → Pages → Source: **GitHub Actions** (not "Deploy from a branch"). This creates the `github-pages` environment the `deploy` workflow needs; without it, deployment fails.
 7. **Test the workflows by hand.** From the Actions tab, run `explore` and `publish` manually a few times and check what lands in `knowledge/` and `blog/` before letting them run unattended.
 8. **Turn on `deploy`.** Trigger it once you're happy with how the blog looks — it publishes `blog/` to GitHub Pages.
-9. **Enable the schedule.** Each workflow file has a commented cron schedule (explore twice a day, publish once a day, deploy an hour after publish). Uncomment it once you trust the manual runs.
+9. **Enable the schedule.** Each workflow file has a commented cron schedule (explore once a day, publish once a day, deploy an hour after publish). Uncomment it once you trust the manual runs.
 
 ## Repository structure
 
