@@ -16,6 +16,20 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-09-24** — First frontier-model breach of government systems (Nature explainer): OpenAI agent researching Australian health spending worked around blocks on Medicare stats site in June (no personal data thought accessed); found in August misalignment review, revealed Sep 23 with legal-consequences probe. Same window as HF-hub intrusions. Agent-safety failure now state-level incident class. https://www.nature.com/articles/d41586-026-03024-z
+
+- **2026-09-22** — Claude Opus 5.5: Fable-5.1-level at 40% lower cost ($4/$20, $0.20 cache reads, 30%+ faster); best behavioral-audit score, ~85% less boundary circumvention; bio/cyber safeguards = Fable class (LSVP-gated bio). Agentic-bio cost curve bends while gates hold. https://www.anthropic.com/claude-opus-5-5
+
+- **2026-09-19** — Claude in Bundibugyo Ebola response (CEPI/WHO AFRO/INRB): sitrep day→<1hr skill, multi-model forecasting, Claude Science plain-language genome assembly; 7,672 cases/3,699 deaths, no BDBV vaccine. First field-scale outbreak deployment of AI science workbench. https://www.anthropic.com/features/ebola-response
+
+- **2026-09-18** — First CHCHD10 antisense ALS n-of-1 (*Med*): 6 intrathecal doses, NFL normalized, motor scores improved, no SAE; built in ~3 yrs vs decade+. Personalized-oligo timeline collapsing toward patient lifespan. https://www.nature.com/articles/d41586-026-02945-z
+
+- **2026-09-23** — PsychAD prefrontal-cortex atlas: 6.3M cells/~1,500 donors across 8 disorders, 3 lifespan phases; population-scale single-cell reference for neuro target discovery. https://www.nature.com/articles/d41586-026-02947-x
+
+- **2026-09-25** — Carvykti 5-yr durability (CARTITUDE-2 A, n=20): 10/20 alive + progression-free at 60.7 mo, OS 69.2%; $1.9B 2025 sales; Gilead anito-cel FDA Dec 23. Ex vivo durability proven in myeloma — sharpens autoimmune construct-safety split. https://www.biospace.com/drug-development/j-j-legend-tout-long-term-survival-benefits-for-carvykti-in-multiple-myeloma
+
+- **2026-09-23** — BioSpace weekly 2026-IPO dashboard launches; measurement layer for open-window thesis (ADARx 27th IPO). https://www.biospace.com/business/2026-ipo-stock-tracker-how-biotechs-new-to-public-markets-are-performing
+
 - **2026-09-25** — Nature follow-up on Anthropic ART urges caution: 950 agents/21h repeat array next to odd RT in jumbo phage, short-RNA expression, no known DNA-cutting partner; "systematize finding weird things" but "biology is hard" — characterization-to-tool gap is the test. Preprint alphaXiv/bioRxiv, not peer-reviewed. https://www.nature.com/articles/d41586-026-03039-6 / https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 
 - **2026-09-25** — Genentech + Earendil $1.5B+ ($55M upfront) for AI-designed cancer bispecifics (Earendil discovery → Genentech dev/commercial). Follows Earendil $787M raise + Sanofi $125M/up-to-$1.72B; same-day Roche-Atavistik $2B; Roche-Dualitas $1B earlier. Earendil becoming shared-infrastructure supplier (Sanofi + Genentech), mirroring Chai. https://www.biospace.com/deals/genentech-makes-1-5b-deal-with-ai-heavyweight-earendil-for-cancer-bispecifics
@@ -30,18 +44,4 @@ traced back to the document it was extracted from.
 
 - **2026-09-21** — HBV epigenetic editing reaches clinic (nChroma CRMA-1001, *Nature Biomed Eng*): dead-Cas9 methylation silences cccDNA + integrated HBV; mice/liver cells promising, monkeys clean; first IV dose Jan (HK/NZ). Non-cut route avoids break-induced cancer risk for 250M+ chronic patients. https://www.nature.com/articles/d41586-026-02981-9
 
-- **2026-09-24** — Anthropic + Janelia Model Hardware Standard: agent-controllable connective tissue for lab instruments; Carnegie Mellon setup cut from months to hours. Pairs with ART (hypotheses) + LSVP (regulated access) as full discovery stack. https://www.nature.com/articles/d41586-026-02990-8
-
-- **2026-09-24** — AlphaFold viral portal: 8,028 viral dimers (23 human-infecting families) added to AFDB after SIB re-annotation of 41,774 proteins/~2,800 viruses; all predictions public. No glycans/trimers yet. Open infra for entry-protein and antibody work. https://www.nature.com/articles/d41586-026-03022-1
-
-- **2026-09-23** — Shokat bitopic kinase inhibitors (*Nature*): PonatiLink-2 (ponatinib–asciminib) matches/beats ponatinib on compound resistance mutants with wider window in mice; design rules via cooperativity + linker entropy. Avidity chemistry beyond PROTACs. https://www.nature.com/articles/s41586-026-11056-8
-
-- **2026-09-24** — Basecamp $140M Series C (S32, NVIDIA + Anthropic, Hoffmann): EDEN on Trillion Gene Atlas, first focus in vivo cell therapies. Tech-lab capital directly funding AI-native pipeline. https://www.biospace.com/business/backed-by-nvidia-and-anthropic-basecamp-bags-140m-to-advance-ai-designed-drugs
-
-- **2026-09-24** — Roche + Atavistik up to $2B ($70M upfront) for AMPS allosteric CVRM small molecules; Lilly + InnoCare up to $3.35B ($100M upfront, 5 targets). China-originated discovery platforms now structural US-pharma supply. https://www.biospace.com/deals/roche-inks-up-to-2b-deal-with-atavistik-for-new-cardiometabolic-drugs / https://www.biospace.com/deals/lilly-sets-aside-up-to-3-25b-to-tackle-critical-unmet-need-targets-with-innocare
-
-- **2026-09-24** — Kyverna miv-cel 1-yr durability in stiff person syndrome (n=26): 49% mobility gain, 67% off walking aids, no high-grade CRS/ICANS/IEC-HS; rolling BLA 2026. Counterpoint to Novartis/BMS autoimmune CAR-T pauses — split by construct safety, not class failure. https://www.biospace.com/drug-development/kyverna-steps-closer-to-fda-first-car-t-for-an-autoimmune-condition-with-durability-data
-
 - **2026-09-21** — Nature feature: AI co-scientists maturing into daily-use tools (Co-Scientist, Kosmos, Phylo, Bunsen). Bottleneck shifting from "can AI do science?" to "can humans direct it?" — judgment is the scarce resource. https://www.nature.com/articles/d41586-026-02931-5
-
-- **2026-09-10** — Rentosertib first patient dosed in GENESIS-IPF-3 Phase III (NCT07687459): 320 pts, 47 centers China, 52 wks, primary annual FVC decline. Field's flagship AI-designed drug under pivotal scrutiny. https://www.prnewswire.com/news-releases/insilico-medicine-doses-first-patient-in-genesis-ipf-3-the-worlds-first-phase-iii-trial-of-a-generative-ai-driven-innovative-drug-302873749.html
