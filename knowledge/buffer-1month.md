@@ -22,13 +22,13 @@ traced back to the document it was extracted from.
 
 - **2026-09-19** — Claude in Bundibugyo Ebola response (CEPI/WHO AFRO/INRB): sitrep day→<1hr skill, multi-model forecasting, Claude Science plain-language genome assembly; 7,672 cases/3,699 deaths, no BDBV vaccine. First field-scale outbreak deployment of AI science workbench. https://www.anthropic.com/features/ebola-response
 
-- **2026-09-18** — First CHCHD10 antisense ALS n-of-1 (*Med*): 6 intrathecal doses, NFL normalized, motor scores improved, no SAE; built in ~3 yrs vs decade+. Personalized-oligo timeline collapsing toward patient lifespan. https://www.nature.com/articles/d41586-026-02945-z
+- **2026-09-24** — MHS field test (Nature, Carnegie Mellon): Anthropic/Janelia connective-tissue software links robotic arm → liquid-handler → analyser with agent orchestration; setup months→hours vs bespoke code; distinct from SiLA by direct agent connection. Physical-execution layer proof. https://www.nature.com/articles/d41586-026-02990-8
 
-- **2026-09-23** — PsychAD prefrontal-cortex atlas: 6.3M cells/~1,500 donors across 8 disorders, 3 lifespan phases; population-scale single-cell reference for neuro target discovery. https://www.nature.com/articles/d41586-026-02947-x
+- **2026-09-28** — Six I&I targets to sustain post-Humira/Dupixent market (BioSpace): FcRn pipeline-in-product (J&J Imaavy, argenx, Immunovant, UCB); STAT6 "oral Dupixent" (Kymera KT-621 94%/98% degradation, Nurix/Sanofi Ph1); IL-4/13/TSLP bi-/tri-specifics (Aclaris, Sanofi, Pfizer); IL-23/17 orals vs yearly injectables (Icotyde, zasocitinib, ASC50, ORKA-001). Target map AI-discovery platforms sell into. https://www.biospace.com/drug-development/6-immunology-targets-to-sustain-a-mammoth-i-i-market
 
 - **2026-09-25** — Carvykti 5-yr durability (CARTITUDE-2 A, n=20): 10/20 alive + progression-free at 60.7 mo, OS 69.2%; $1.9B 2025 sales; Gilead anito-cel FDA Dec 23. Ex vivo durability proven in myeloma — sharpens autoimmune construct-safety split. https://www.biospace.com/drug-development/j-j-legend-tout-long-term-survival-benefits-for-carvykti-in-multiple-myeloma
 
-- **2026-09-23** — BioSpace weekly 2026-IPO dashboard launches; measurement layer for open-window thesis (ADARx 27th IPO). https://www.biospace.com/business/2026-ipo-stock-tracker-how-biotechs-new-to-public-markets-are-performing
+- **2026-09-28** — Ultragenyx best-and-worst month: Fayuvi (first Sanfilippo A, ~$4M) + Genglycos (first gene therapy, GSDIa) approvals, each with ~$200M PRV; Angelman ASO Ph3 fail (−50% stock, shelved) + setrusumab OI miss; $730–760M 2026 guide, cost cuts. Rare-AAV commercial-viability test. https://www.biospace.com/drug-development/milestone-sanfilippo-nod-helps-ultragenyx-regroup-after-tough-angelman-defeat
 
 - **2026-09-25** — Nature follow-up on Anthropic ART urges caution: 950 agents/21h repeat array next to odd RT in jumbo phage, short-RNA expression, no known DNA-cutting partner; "systematize finding weird things" but "biology is hard" — characterization-to-tool gap is the test. Preprint alphaXiv/bioRxiv, not peer-reviewed. https://www.nature.com/articles/d41586-026-03039-6 / https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 
@@ -42,6 +42,8 @@ traced back to the document it was extracted from.
 
 - **2026-09-25** — OpenAI research chief "cultural reset" (Gibney Q&A): after HF-hub hack + health-site agent breach + math authorship dispute; safety via model-monitors-model chain-of-thought; Codex "research intern" at 100k-chip scale, 2028 end-to-end goal bottleneck = "research taste"; drug discovery named as shrink-the-pipeline target; own Jalapeño chip. https://www.nature.com/articles/d41586-026-03028-9
 
-- **2026-09-21** — HBV epigenetic editing reaches clinic (nChroma CRMA-1001, *Nature Biomed Eng*): dead-Cas9 methylation silences cccDNA + integrated HBV; mice/liver cells promising, monkeys clean; first IV dose Jan (HK/NZ). Non-cut route avoids break-induced cancer risk for 250M+ chronic patients. https://www.nature.com/articles/d41586-026-02981-9
+- **2026-09-25** — Nektar $90M jury win over Lilly on rezpeg Treg deal (breach of good faith after Dermira buy; $1B sought; appeal next). Asset itself advancing: REZOLVE-AD Ph2b durability, pivotal AD, alopecia Ph3 H1 2027. Partnership-governance precedent in I&I. https://www.biospace.com/business/nektar-prevails-in-legal-battle-with-lilly-over-broken-rezpeg-partnership
 
-- **2026-09-21** — Nature feature: AI co-scientists maturing into daily-use tools (Co-Scientist, Kosmos, Phylo, Bunsen). Bottleneck shifting from "can AI do science?" to "can humans direct it?" — judgment is the scarce resource. https://www.nature.com/articles/d41586-026-02931-5
+- **2026-09-24** — FDA nominee Overton grilled on independence (HELP hearing): MMR-split order, mifepristone REMS, vapes, 27% boards cut + 72% fewer meetings; adcomms "will meet" pledge. Regulatory-predictability risk for gene-therapy + AI-drug approvals. https://www.biospace.com/fda/us-senators-grill-fda-nominee-overton-on-ability-to-stand-up-to-trump
+
+- **2026-09-24** — GLP-1 non-response quest (Nature; Endocrine Society): 10–15% lose minimal/none; leads = sex/oestrogen synergy, genetics (thin data), behaviour; precision-obesity "largely aspirational". Next frontier = matching/rescuing non-responders. https://www.nature.com/articles/d41586-026-03020-3
