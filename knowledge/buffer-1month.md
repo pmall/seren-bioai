@@ -16,17 +16,31 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-01** — Sanofi + Regeneron $1B upfront (+$7B milestones) for 4 next-gen long-acting type-2 antibodies (lead REGN20423 anti-IL-13 Ph1 AD; IL-4xIL-13 bispecific, anti-IL-4, anti-IL-4Rα preclinical to clinic next yr; optional lunsekimig TSLPxIL-13 opt-in post-Ph3 COPD); 50-50 split; settles Dupixent audit suit. After amlitelimab/itepekimab axed July; Dupixent $17.8B, US patent 2031. https://www.biospace.com/business/sanofi-pays-regeneron-1b-upfront-to-continue-search-for-dupixent-successor
+
+- **2026-10-01** — ARPA-H SURPASS + STACK/COMMONS/CINCH to overhaul US trials: phaseless design engine (digital twins), continuous inference (smaller controls), agentic ops layer; national consent architecture + site activation + patient real-world data. Framed as US-vs-China trial-leadership answer; follows TrialBlazer pilot + Elsa + 2,200-hire rebuild. https://www.biospace.com/drug-development/us-government-launches-ai-driven-programs-to-overhaul-clinical-trials
+
+- **2026-10-01** — Zealand/Boehringer survodutide SYNCHRONIZE-2 Ph3 (n=775, EASD/NEJM): up to 9.8% loss (regimen estimand) / 13.1% efficacy estimand at 76 wks vs 3.9% placebo; 79.3% ≥5% loss; A1C −0.8/−0.9%; ~18% GI discontinuation. Shares −8%; BMO "less competitive" vs Lilly EloraTZP 23.3% same meeting; pitch pivots to visceral/liver fat. https://www.biospace.com/drug-development/zealand-dips-as-boehringer-ingelheim-partnered-weight-loss-drug-fails-to-impress-again
+
+- **2026-10-01** — Merck tulisokibart anti-TL1A Ph2b hidradenitis suppurativa (n=149): 72% high / 64% medium HiSCR50 vs placebo +37%/+29%; Q4W dosing vs Humira 31% / Bimzelx Q2W; no serious/opportunistic infections. From $10.8B Prometheus; UC Ph3 met, SSc-ILD stopped. https://www.biospace.com/drug-development/mercks-antibody-impresses-with-highly-competitive-data-in-chronic-skin-disease
+
+- **2026-10-01** — BMS admilparant LPA1-R IPF safety flag pre-Q4 ALOFT-IPF readout: "limited" liver events incl. 1 blinded death; protocol amended May; IDMC continue. Readthrough hit Contineum PIPE-791 (recovered $13.42); Stifel: molecule/dose-specific if anything; positive BMS readout derisks class. https://www.biospace.com/drug-development/bms-reports-liver-injury-events-in-lung-disease-program-with-key-readout-near
+
+- **2026-10-01** — Foghorn −40% + 40% layoffs (to ~65) as Lilly ends 2021 $300M+$80M chromatin collab: selective SMARCA2 FHD-909 hit target safely past preclinical exposures but Ph1 efficacy insufficient, no expansion; pivot EP300/CBP degraders + oral I&I; cash to H2 2029. https://www.biospace.com/job-trends/foghorn-lays-off-40-of-staff-after-lilly-collaboration-ends
+
+- **2026-10-01** — Pancreatic-cancer interception push (AACR, Nature): post-daraxonrasib (Aug FDA) optimism; PRECEDE 12k/20k high-risk, >50 early cancers; goal 5-yr 13.7%→50% via surveillance + adjuvant KRAS drugs; AI scans + blood tests; mouse Kras-precancer interception improves survival (Science 391). https://www.nature.com/articles/d41586-026-03119-7
+
+- **2026-10-01** — Endometriosis non-hormonal lead (Adv Healthc Mater, mice; Nature news): solubility-fixed niclosamide targets lesion cells; 190M affected, ~50% surgical recurrence at 5 yrs. Preclinical only. https://www.nature.com/articles/d41586-026-03042-x
+
+- **2026-10-01** — Q3 M&A: <$30B/22 deals vs $78B/31 Q2; YTD 74/$156.9B. Vertex-Crinetics $10B 4th-biggest YTD; Lilly 11 deals/$31.7B YTD (Centessa $8.1B); Tarsus eye double-buy ($567M + $800M). https://www.biospace.com/business/m-a-slows-in-q3-but-vertex-snags-one-of-the-years-biggest-in-10b-crinetics-buy
+
 - **2026-09-30** — DeepMind SynthIDBio function-preserving watermark for AI proteins (Nature): sequence + 3D-shape tell, no binding loss; secret-key detection for DNA-synthesis providers; erasible via re-design. Layered biosecurity, not proof. https://www.nature.com/articles/d41586-026-03033-y
 
 - **2026-09-30** — OpenAI Foundation $25B charity under way (Nature Q&A): 26% OpenAI stake, ~$1.4T valuation sought; Sep $125M health-data tranche ($40M UNC cancer vaccines, $500k bankrupt-biotech repurpose, $15M BBB prediction) after $100M Alzheimer's; focus Alzheimer's/open data/>500k-death diseases. https://www.nature.com/articles/d41586-026-03015-0
 
 - **2026-09-30** — Lilly EloraTZP (eloralintide + tirzepatide) Ph2b obesity+T2D (n=367, EASD): 23.3% loss vs 14.8% tirzepatide vs 3% placebo at 48 wks; A1C −2.9% vs −2.4%; AE-discontinuation 10.8–27% vs 2.9%; Ph3 Q4 with optimized titration. Amylin-specific vs calcitonin debate with Novo. https://www.biospace.com/drug-development/superior-weight-loss-blood-sugar-control-propel-lillys-amylin-gip-glp-1-combo-into-phase-3
 
-- **2026-09-30** — Lilly indirect GLP-1 comparisons (EASD): Foundayo 17.2 mg +1.5–2.4% loss vs oral sema; Zepbound up to +4.5% vs high-dose Wegovy, 3× ≥20% responders. BMO "indirect but encouraging"; Foundayo $98M Q2 vs oral Wegovy $496M, slower-than-hoped start. https://www.biospace.com/drug-development/lilly-builds-commercial-case-for-glp-1-products-over-novo-with-indirect-analyses
-
 - **2026-09-30** — Atara/Pierre Fabre resubmit Ebvallo (tabelecleucel) EBV+ PTLD after 2nd CRL: May reversal post-Makary/Prasad allows single-arm + historical control; new package + longer follow-up/EU experience; likely Class 2, PDUFA ~Mar 29 2027; $31M milestone. https://www.biospace.com/fda/atara-pierre-fabre-resubmit-twice-rebuffed-cell-therapy-after-fda-flips-again
-
-- **2026-09-30** — BioNTech to close 3 German + Singapore plants (~1,860 jobs) after no buyers: Marburg 3B-dose capacity idle, Pfizer takes Comirnaty 2027; €97.6M restructuring + €96.1M impairments Q2. mRNA overcapacity unwind. https://www.biospace.com/drug-delivery/biontech-to-close-german-manufacturing-plants-after-failing-to-find-buyers
 
 - **2026-09-30** — AI speech clock (Sci Adv): 2,928 speakers, 700+ features, 4-min audio; speech-age gap tracks cognitive impairment; low-cost ageing measure vs scans/blood. https://www.nature.com/articles/d41586-026-03106-y
 
@@ -38,16 +52,6 @@ traced back to the document it was extracted from.
 
 - **2026-09-29** — Roche drops emugrobart in obesity (Ph2 GYMINDA + tirzepatide futile); rights to Chugai (SMA Ph3 pivot). BMO: muscle-preservation pharmacology hard (cf. Lilly bimagrumab chop); Roche obesity via Carmot enicepatide, petrelintide, Hanmi HM17321. https://www.biospace.com/drug-development/roche-cuts-muscle-sparing-obesity-drug-after-mid-stage-disappointment
 
-- **2026-09-28** — Transplanted-heart age tracks host (Poganik, bioRxiv): young→old grafts age faster, old→young rejuvenate (mice + n=11 human biopsies, methylation); function tracks recipient. Donor-pool expansion implication; systemic-milieu datapoint beside rentosertib age-reversal. https://www.nature.com/articles/d41586-026-03043-w
-
-- **2026-09-25** — Anthropic biolab CRISPR-like find under provenance cloud: ~950 agents/21hrs flagged RT-adjacent repeats in giant viruses (no effector, preprint); NYT Sep 27: Copenhagen Mestre says prior years-long study + uploads to Anthropic models; Anthropic denies training on transcripts. Scale proven, contamination check load-bearing. https://www.nature.com/articles/d41586-026-03039-6
-
 - **2026-09-28** — China leads in vivo CAR-T trials (Nature; BCG/NRDD): 82% of 140 global in vivo programs China-developed; IIT fast path drove clinic entry; 5 lupus + 16 autoimmune early improvements; first China-developed in vivo cleared by US FDA for testing (heme). Durability/toxicity unproven; IIT tightening risk. https://www.nature.com/articles/d41586-026-03004-3
 
-- **2026-09-28** — Claude Sonnet 5.5: same list price as Sonnet 5 ($2/$10, $0.20 cache) but up to 30% less per task, 30%+ faster; Terminal-Bench 70.6% vs 10.3% (Opus 5.5 66.4%), GDPval ≈ Opus; first Sonnet with Opus-class cyber safeguards + extraction classifiers; bio safeguards = Sonnet 5 set (LSVP-gated full breadth). Haiku 5.5 next. https://www.anthropic.com/claude-sonnet-5-5
-
 - **2026-09-28** — Merck + SciBrunch up to $2.13B ($400M upfront, closed) for preclinical oral KRAS G12D(ON) glue SPR2015; to clinic EOY; Keytruda-2028 context; same day I-DXd accelerated filing withdrawn. China supply now in KRAS glue. https://www.biospace.com/deals/merck-inks-up-to-2-13b-deal-to-dine-with-scibrunch-gain-rights-to-preclinical-kras-inhibitor
-
-- **2026-09-28** — Merck/Daiichi withdraw I-DXd accelerated BLA in ES-SCLC (FDA: IDeate-Lung01 ORR 48.2% insufficient); Ph3 continues; RBC "net positive" for GSK ris-rez / Roche tam-peli with China OS data. ADC bar = more than ORR. https://www.biospace.com/drug-development/merck-daiichi-sankyo-retract-accelerated-approval-request-for-lung-cancer-adc
-
-- **2026-09-28** — Ultragenyx best-and-worst month: Fayuvi (first Sanfilippo A, ~$4M) + Genglycos (first gene therapy, GSDIa) approvals, each with ~$200M PRV; Angelman ASO Ph3 fail (−50% stock, shelved) + setrusumab OI miss; $730–760M 2026 guide, cost cuts. Rare-AAV commercial-viability test. https://www.biospace.com/drug-development/milestone-sanfilippo-nod-helps-ultragenyx-regroup-after-tough-angelman-defeat
