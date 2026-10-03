@@ -16,6 +16,20 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-02** — Novartis up to $7.8B ($575M upfront) for Abogen mRNA-encoded CD3xCD19 TCE ABO2203 (in vivo TCE production; 0 CRS in n=9 FIH B-NHL, 100% ORR top dose) + option on further RNA programs; autoimmune potential framed. Weeks after rap-cel CAR-T suspensions (3 deaths); 3rd China deal YTD (BoomRay $900M, SciNeuro $1.5B). https://www.biospace.com/deals/novartis-bets-up-to-7-8b-for-an-mrna-encoded-t-cell-engager-from-chinas-abogen
+
+- **2026-10-02** — Kailera/Hengrui ribupatide weekly GLP-1/GIP Ph2 PMOS (n=158, China, EASD): −20.2% (4 mg) / −15.1% (2 mg) / −10% (1 mg) at 32 wks vs −2.6% placebo; menstrual frequency up vs down on placebo; 0 SAE/discont. + HRS-4729 triple + HRS-7535 oral readouts same meeting. https://www.biospace.com/drug-development/kailera-hengruis-glp-1-gip-candidate-delivers-weight-menstrual-benefits-to-women-with-pmos
+
+- **2026-10-02** — BMO patent-cliff scorecard: most bullish Merck (Keytruda $33B LOE end-2028 covered by intismeran mRNA, Winrevair $9.1B peak, sac-TMT $4.3B peak, tulisokibart TL1A; +43% YTD), bearish BMS (Opdivo $10B + Eliquis $14.4B = ~half revenue; Cobenfy $155M, milvexian delayed, admilparant liver overhang). https://www.biospace.com/business/bmo-most-bullish-on-mercks-bearish-on-bms-plans-to-contend-with-patent-cliffs
+
+- **2026-10-02** — Sarepta "potential turnaround" (Jefferies, WMS): Elevidys 2-yr in 8-12 yr ambulatory DMD (n=25) durable benefit vs external controls; 20% TRAE, 3 liver events, 0 deaths. Catalysts: DM1/FSHD siRNA MAD 2026, ENDEAVOR Cohort 8 non-ambulatory H1 2027, exon-skippers PDUFA Feb 28 2027. https://www.biospace.com/drug-development/sarepta-could-be-potential-turnaround-story-with-catalysts-lined-up-into-2027
+
+- **2026-10-02** — Varda $251M Series D ($1.6B val; $598M total) for orbital drug manufacturing (6 reentries, 28 launches 2027-29; United Therapeutics rare-pulmonary pact May); microgravity crystallization → bioavailability/stability. https://www.biospace.com/drug-delivery/varda-raises-251m-to-leverage-gravity-in-space-for-drug-production
+
+- **2026-10-02** — Anthropic $100M Frontier Academy for 10,000 Frontier Deployed Engineers by end-2027 (residency model; cohorts SF/NYC/London incl. Novo Nordisk, Accenture, McKinsey); talent bottleneck for agentic deployment. https://www.anthropic.com/news/claude-frontier-academy
+
+- **2026-10-02** — Prozac paediatric "zombie trial" (Nature/Cochrane): single 2006 Iran n=40 with implausible effect drove 2016/2020 pro-fluoxetine metas; exclusion collapses benefit; guideline review urged. https://www.nature.com/articles/d41586-026-02769-x
+
 - **2026-10-01** — Sanofi + Regeneron $1B upfront (+$7B milestones) for 4 next-gen long-acting type-2 antibodies (lead REGN20423 anti-IL-13 Ph1 AD; IL-4xIL-13 bispecific, anti-IL-4, anti-IL-4Rα preclinical to clinic next yr; optional lunsekimig TSLPxIL-13 opt-in post-Ph3 COPD); 50-50 split; settles Dupixent audit suit. After amlitelimab/itepekimab axed July; Dupixent $17.8B, US patent 2031. https://www.biospace.com/business/sanofi-pays-regeneron-1b-upfront-to-continue-search-for-dupixent-successor
 
 - **2026-10-01** — ARPA-H SURPASS + STACK/COMMONS/CINCH to overhaul US trials: phaseless design engine (digital twins), continuous inference (smaller controls), agentic ops layer; national consent architecture + site activation + patient real-world data. Framed as US-vs-China trial-leadership answer; follows TrialBlazer pilot + Elsa + 2,200-hire rebuild. https://www.biospace.com/drug-development/us-government-launches-ai-driven-programs-to-overhaul-clinical-trials
@@ -51,7 +65,3 @@ traced back to the document it was extracted from.
 - **2026-09-29** — uniQure AMT-130 4-yr Huntington's: 44% cUHDRS slowing (n=12 high-dose, ns vs updated ENROLL-HD, down from 75% at 3-yr); TFC 61% held (significant, confirmatory endpoint); post-hoc prior-control 54%/68%; 17% CNS-inflammation SAE resolved; −38% stock. 3-yr all-15 anchor 80%/67% holds for BLA (filed Sep 2, acceptance Q4). Durability + external-control fragility. https://www.biospace.com/drug-development/uniqure-crashes-as-huntingtons-gene-therapy-shows-less-slowing-of-disease-at-4-years
 
 - **2026-09-29** — Roche drops emugrobart in obesity (Ph2 GYMINDA + tirzepatide futile); rights to Chugai (SMA Ph3 pivot). BMO: muscle-preservation pharmacology hard (cf. Lilly bimagrumab chop); Roche obesity via Carmot enicepatide, petrelintide, Hanmi HM17321. https://www.biospace.com/drug-development/roche-cuts-muscle-sparing-obesity-drug-after-mid-stage-disappointment
-
-- **2026-09-28** — China leads in vivo CAR-T trials (Nature; BCG/NRDD): 82% of 140 global in vivo programs China-developed; IIT fast path drove clinic entry; 5 lupus + 16 autoimmune early improvements; first China-developed in vivo cleared by US FDA for testing (heme). Durability/toxicity unproven; IIT tightening risk. https://www.nature.com/articles/d41586-026-03004-3
-
-- **2026-09-28** — Merck + SciBrunch up to $2.13B ($400M upfront, closed) for preclinical oral KRAS G12D(ON) glue SPR2015; to clinic EOY; Keytruda-2028 context; same day I-DXd accelerated filing withdrawn. China supply now in KRAS glue. https://www.biospace.com/deals/merck-inks-up-to-2-13b-deal-to-dine-with-scibrunch-gain-rights-to-preclinical-kras-inhibitor
