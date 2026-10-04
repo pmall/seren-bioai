@@ -16,6 +16,14 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-03** — CRISPR Tx to present zugo-cel allogeneic CD19 CAR-T Ph1 systemic sclerosis data at ACR Nov 8 (Abstract 0225, Poster Session A); program spans rheum/heme/neuro autoimmune; date-save, no data yet. Off-the-shelf entry into post-pause autoimmune slot. https://www.biospace.com/press-releases/crispr-therapeutics-to-present-clinical-data-on-zugocabtagene-geleucel-zugo-cel-in-autoimmune-disease-at-the-american-college-of-rheumatology-acr-convergence-2026
+
+- **2026-10-03** — Biogen litifilimab anti-BDCA2 52-wk Ph2 CLE AMETHYST Part A (n=93, EADV): 27.2% clear/almost-clear / 28.8% CLASI-70 at W52 vs 19.0%/21.7% at W24; placebo→drug onset 4 wks, 33.7% clear by W52; SAE 3.4%, no new signals; Ph3 H1 2027; Breakthrough Jan 2026. Non-depleting pDC alternative to CD19 depletion. https://www.biospace.com/press-releases/biogens-litifilimab-demonstrates-rapid-and-durable-efficacy-in-new-52-week-phase-2-data-from-ongoing-phase-2-3-amethyst-study-reinforcing-its-potential-as-a-first-in-class-therapy-for-cutaneous-lupus-erythematosus
+
+- **2026-10-02** — Ultragenyx EMA validates MAA for rebisufligene etisparvovec MPS IIIA gene therapy (PRIME + Orphan, JCA scope; MHRA/SFDA next); release notes FDA approval Sep 17 2026. Transatlantic rollout of third gene-therapy wave. https://www.biospace.com/press-releases/ultragenyx-announces-marketing-authorisation-application-maa-submission-to-the-european-medicines-agency-ema-for-the-first-investigational-gene-therapy-for-mps-iiia-sanfilippo-syndrome-type-a
+
+- **2026-10-02** — Summit/AZ/Daiichi Sankyo ivonescimab + Datroway TROP2 ADC combo across solid tumors, Ph3 first-line TNBC first (AZ/Daiichi sponsor, each retains asset); follows AZ $2B Summit equity. Bispecific value combo-anchored; BLA PDUFA Nov 14; 5/5 Ph3 positive to date. https://www.biospace.com/press-releases/summit-therapeutics-announces-clinical-trial-collaboration-with-astrazeneca-and-daiichi-sankyo-to-evaluate-ivonescimab-in-combination-with-trop2-directed-adc-datroway
+
 - **2026-10-02** — Novartis up to $7.8B ($575M upfront) for Abogen mRNA-encoded CD3xCD19 TCE ABO2203 (in vivo TCE production; 0 CRS in n=9 FIH B-NHL, 100% ORR top dose) + option on further RNA programs; autoimmune potential framed. Weeks after rap-cel CAR-T suspensions (3 deaths); 3rd China deal YTD (BoomRay $900M, SciNeuro $1.5B). https://www.biospace.com/deals/novartis-bets-up-to-7-8b-for-an-mrna-encoded-t-cell-engager-from-chinas-abogen
 
 - **2026-10-02** — Kailera/Hengrui ribupatide weekly GLP-1/GIP Ph2 PMOS (n=158, China, EASD): −20.2% (4 mg) / −15.1% (2 mg) / −10% (1 mg) at 32 wks vs −2.6% placebo; menstrual frequency up vs down on placebo; 0 SAE/discont. + HRS-4729 triple + HRS-7535 oral readouts same meeting. https://www.biospace.com/drug-development/kailera-hengruis-glp-1-gip-candidate-delivers-weight-menstrual-benefits-to-women-with-pmos
@@ -39,10 +47,6 @@ traced back to the document it was extracted from.
 - **2026-10-01** — Merck tulisokibart anti-TL1A Ph2b hidradenitis suppurativa (n=149): 72% high / 64% medium HiSCR50 vs placebo +37%/+29%; Q4W dosing vs Humira 31% / Bimzelx Q2W; no serious/opportunistic infections. From $10.8B Prometheus; UC Ph3 met, SSc-ILD stopped. https://www.biospace.com/drug-development/mercks-antibody-impresses-with-highly-competitive-data-in-chronic-skin-disease
 
 - **2026-10-01** — BMS admilparant LPA1-R IPF safety flag pre-Q4 ALOFT-IPF readout: "limited" liver events incl. 1 blinded death; protocol amended May; IDMC continue. Readthrough hit Contineum PIPE-791 (recovered $13.42); Stifel: molecule/dose-specific if anything; positive BMS readout derisks class. https://www.biospace.com/drug-development/bms-reports-liver-injury-events-in-lung-disease-program-with-key-readout-near
-
-- **2026-10-01** — Foghorn −40% + 40% layoffs (to ~65) as Lilly ends 2021 $300M+$80M chromatin collab: selective SMARCA2 FHD-909 hit target safely past preclinical exposures but Ph1 efficacy insufficient, no expansion; pivot EP300/CBP degraders + oral I&I; cash to H2 2029. https://www.biospace.com/job-trends/foghorn-lays-off-40-of-staff-after-lilly-collaboration-ends
-
-- **2026-10-01** — Pancreatic-cancer interception push (AACR, Nature): post-daraxonrasib (Aug FDA) optimism; PRECEDE 12k/20k high-risk, >50 early cancers; goal 5-yr 13.7%→50% via surveillance + adjuvant KRAS drugs; AI scans + blood tests; mouse Kras-precancer interception improves survival (Science 391). https://www.nature.com/articles/d41586-026-03119-7
 
 - **2026-10-01** — Endometriosis non-hormonal lead (Adv Healthc Mater, mice; Nature news): solubility-fixed niclosamide targets lesion cells; 190M affected, ~50% surgical recurrence at 5 yrs. Preclinical only. https://www.nature.com/articles/d41586-026-03042-x
 
