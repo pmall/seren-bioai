@@ -16,6 +16,22 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-06** — 2026 Medicine Nobel: optogenetics (Deisseroth/Hegemann/Nagel, channelrhodopsin → ms-precision circuit control, open toolkit/reagent sharing; clinic readthrough neuro/psych). https://www.nature.com/articles/d41586-026-03091-2
+
+- **2026-10-06** — AACR Cancer Progress Report 2026: US 5-yr 71% vs 49% late-1970s; lung 13%→29%, childhood lymphoid leukemia 57%→90% (dose/timing tweaks), liver 3x to 22%, myeloma immune-driven. https://www.nature.com/articles/d41586-026-03157-1
+
+- **2026-10-05** — Lilly +$870M Gate Molecular Gate expansion (1 target + 2nd option; undisclosed upfront + milestones + royalties) atop Jul 2025 $856M; ~4,000 extracellular difficult-to-drug proteins (I&I/neuro/cardiometabolic); Gate $135M raised. https://www.biospace.com/business/lilly-doubles-down-on-gate-alliance-to-unlock-new-drug-class-with-another-870m-in-biobucks
+
+- **2026-10-05** — Genentech up to $1.27B ($100M upfront) for Alector AL050 GCase ERT + Brain Carrier BBB platform (preclinical Parkinson's); runway to 2029; reset after GSK Jul exit (latozinemab Ph3 FTD fail) + AbbVie AL002 Ph2 fail; pairs with Roche Brainshuttle/trontinemab. https://www.biospace.com/deals/genentech-pens-1-27b-deal-to-access-alectors-preclinical-blood-brain-barrier-asset
+
+- **2026-10-05** — CSL up to $1.6B ($355M upfront, 55/45 split) for Alentis lixudebart anti-claudin-1 (AAV-RPGN Ph2 RENAL + Ph3 planned, FSGS, PSC; IPF excluded); external-innovation rebuild post-Seqirus spinout/15% layoffs. https://www.biospace.com/deals/csl-strikes-up-to-1-6b-deal-with-alentis-for-autoimmune-drug-with-broad-potential
+
+- **2026-10-05** — Vaxcyte VAX-31 31-valent PCV Ph3 OPUS-1: non-inferior all 28 serotypes vs Prevnar 20/Capvaxive, superior 3 unique; +50% shares; $8B+ market; filing H1 2028. https://www.biospace.com/drug-development/vaxcyte-rises-as-pneumococcal-shot-establishes-new-competitive-moat-vs-pfizer-merck
+
+- **2026-10-05** — Sep movers: Viking VK2735 GLP-1/GIP maintenance 17.7% at 21 wks + $575M raise; Longeveron laromestrocel Ph2b HLHS miss −60% to $2.69, ~$10M to Q4, strategic review; XBI −3.5%. https://www.biospace.com/business/significant-stock-movers-of-september-viking-soars-longeveron-slides
+
+- **2026-10-05** — 2 Mass biotechs quit: Adecto ADAM8 mAb closed Sep 30 (no clinical-data fundraising), Aviceda AVD-104 GA Ph2b miss winding down (planned 2x Ph3 off). https://www.biospace.com/job-trends/2-massachusetts-biotechs-call-it-quits
+
 - **2026-10-05** — BioSpace autoimmune CAR-T synthesis as Kyverna nears first BLA (rolling BLA end-2026; KYSA-8 SPS n=26, no high-grade CRS/ICANS/IEC-HS): Novartis rap-cel 3 IEC-HS deaths + BMS zola-cel inflammatory pause vs miv-cel fully-human CD28 + established manufacturing; IN8bio CEO blames rapid-expansion CMC for competitor toxicity; Leerink Sep 1 "considerable uncertainty"; rule: don't lump modalities. https://www.biospace.com/drug-development/weighing-the-risks-of-car-t-in-autoimmune-disease-as-kyverna-nears-market
 
 - **2026-10-05** — Roivant first solo commercial era: Priovant Lisraya (brepocitinib dual TYK2/JAK1, dermatomyositis Aug approval, Leerink $7.9B 2035) + Pulmovant mosliciguat PH Ph2 >56% PVR cut ("blowout," Ph3 to 2029, dry-powder vs Tyvaso cough, $9.8B 2035) + Immunovant IMVT-1402 (Graves' Ph3 2027 as transformative bet); uveitis readout end-2026; hub-and-spoke must prove launch execution post-Vtama stumble. https://www.biospace.com/drug-development/roivant-the-inveterate-drug-hunters-enters-commercial-era-with-lisraya
@@ -59,10 +75,6 @@ traced back to the document it was extracted from.
 - **2026-10-01** — Merck tulisokibart anti-TL1A Ph2b hidradenitis suppurativa (n=149): 72% high / 64% medium HiSCR50 vs placebo +37%/+29%; Q4W dosing vs Humira 31% / Bimzelx Q2W; no serious/opportunistic infections. From $10.8B Prometheus; UC Ph3 met, SSc-ILD stopped. https://www.biospace.com/drug-development/mercks-antibody-impresses-with-highly-competitive-data-in-chronic-skin-disease
 
 - **2026-10-01** — BMS admilparant LPA1-R IPF safety flag pre-Q4 ALOFT-IPF readout: "limited" liver events incl. 1 blinded death; protocol amended May; IDMC continue. Readthrough hit Contineum PIPE-791 (recovered $13.42); Stifel: molecule/dose-specific if anything; positive BMS readout derisks class. https://www.biospace.com/drug-development/bms-reports-liver-injury-events-in-lung-disease-program-with-key-readout-near
-
-- **2026-10-01** — Endometriosis non-hormonal lead (Adv Healthc Mater, mice; Nature news): solubility-fixed niclosamide targets lesion cells; 190M affected, ~50% surgical recurrence at 5 yrs. Preclinical only. https://www.nature.com/articles/d41586-026-03042-x
-
-- **2026-10-01** — Q3 M&A: <$30B/22 deals vs $78B/31 Q2; YTD 74/$156.9B. Vertex-Crinetics $10B 4th-biggest YTD; Lilly 11 deals/$31.7B YTD (Centessa $8.1B); Tarsus eye double-buy ($567M + $800M). https://www.biospace.com/business/m-a-slows-in-q3-but-vertex-snags-one-of-the-years-biggest-in-10b-crinetics-buy
 
 - **2026-09-30** — DeepMind SynthIDBio function-preserving watermark for AI proteins (Nature): sequence + 3D-shape tell, no binding loss; secret-key detection for DNA-synthesis providers; erasible via re-design. Layered biosecurity, not proof. https://www.nature.com/articles/d41586-026-03033-y
 
