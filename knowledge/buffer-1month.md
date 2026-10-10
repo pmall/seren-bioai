@@ -16,6 +16,16 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-09** — TRexBio $116.7M + Retension $45M IPOs debut ($161.7M); YTD 29 vs 8 in 2025; City ~$158.3M at $18 (RNAi Maraganore) + Iambic $135M at $15–17 (Nvidia-backed AI, HER2 IAM1363) queued; TRex Lilly 5.4M-share holder. https://www.biospace.com/deals/trexbio-retension-raise-161-7m-in-ipos-city-iambic-set-proposed-offering-terms
+
+- **2026-10-09** — Viatris $1.65B Pacira ($36.50 vs $25.20) for non-opioid pain: Exparel $587M + Zilretta $121M, 340-person commercial; FAM PDUFA Dec 27 2026 (~$500M peak) bundled opioid-sparing; >$50M synergies; generics 2030/2031 overhang. https://www.biospace.com/deals/viatris-inks-1-65b-pacira-buyout-to-build-non-opioid-pain-therapy-business
+
+- **2026-10-09** — Abogen deep-dive: $1B+ COVID-era raise → EUA Indonesia 2022 → Walvax exit 2024; ABO2203 mRNA CD19xCD3 n=9 ORR 33/67/100% (100% CR high), no CRS/ICANS + n=3 ITP durable platelet recovery; Novartis $575M upfront validates in vivo + China-supply rotation post rap-cel pause. https://www.biospace.com/deals/opinion-how-abogen-went-from-covid-hype-to-a-7-8b-novartis-deal
+
+- **2026-10-07** — OpenAI dumps 700+ AI maths preprints (GitHub, unreleased model); "slopocalypse" backlash + mass-scoop complaints; Alpöge "most significant moment"; provenance crisis scales from Buckmaster/Mestre cases. https://www.nature.com/articles/d41586-026-03196-8
+
+- **2026-10-08** — Anthropic Cyber Mission: Critical Infrastructure Defense Program (11 partners incl. CrowdStrike/Palo Alto/Rockwell) + OSS Scanner free opt-in scans (>90% TP target); Usage Policy refresh (deceptive-campaigns, weapons incl. guidance software, MHS hardware safe-state, eff Nov 12); cyber mirror of LSVP tiering. https://www.anthropic.com/news/anthropic-cyber-mission
+
 - **2026-10-08** — argenx ends Vyvgart Hytrulo Ph3 UNITY in Sjogren's for futility (>500 pts looked, week-48 endpoint unmet); −13% shares; Blair $1.4B peak gone; high placebo rates; rivals Novartis ianalumab + Amgen dazodalibep hold Ph3 wins. Same day FB102 (CD122, $2.2B Forte) Ph2 celiac win, first CD122 intestinal-damage prevention, to Ph3. https://www.biospace.com/drug-development/argenx-shutters-sjogrens-study-losing-blockbuster-expansion-opportunity-for-vyvgart
 
 - **2026-10-08** — Newron evenamide: 4 deaths on drug + 1 placebo (0.56% vs 0.27%); 3 unrelated, 1 possibly related; FDA Apr hold (sodium-channel cardiac concern) maintained; >10k ECGs/~700 pts under review; no US dosing in TRS-2, ex-US continues. https://www.biospace.com/drug-development/newron-reveals-5-deaths-in-late-stage-schizophrenia-program-as-fda-maintains-hold
@@ -82,12 +92,6 @@ traced back to the document it was extracted from.
 
 - **2026-10-02** — Ultragenyx EMA validates MAA for rebisufligene etisparvovec MPS IIIA gene therapy (PRIME + Orphan, JCA scope; MHRA/SFDA next); release notes FDA approval Sep 17 2026. Transatlantic rollout of third gene-therapy wave. https://www.biospace.com/press-releases/ultragenyx-announces-marketing-authorisation-application-maa-submission-to-the-european-medicines-agency-ema-for-the-first-investigational-gene-therapy-for-mps-iiia-sanfilippo-syndrome-type-a
 
-- **2026-10-02** — Novartis up to $7.8B ($575M upfront) for Abogen mRNA-encoded CD3xCD19 TCE ABO2203 (0 CRS n=9 FIH, 100% ORR top dose); in vivo answer to rap-cel pause. https://www.biospace.com/deals/novartis-bets-up-to-7-8b-for-an-mrna-encoded-t-cell-engager-from-chinas-abogen
-
 - **2026-10-02** — Kailera/Hengrui ribupatide weekly GLP-1/GIP Ph2 PMOS (n=158, China, EASD): −20.2% (4 mg) / −15.1% (2 mg) / −10% (1 mg) at 32 wks vs −2.6% placebo; menstrual frequency up vs down on placebo; 0 SAE/discont. + HRS-4729 triple + HRS-7535 oral readouts same meeting. https://www.biospace.com/drug-development/kailera-hengruis-glp-1-gip-candidate-delivers-weight-menstrual-benefits-to-women-with-pmos
 
 - **2026-10-02** — BMO patent-cliff scorecard: most bullish Merck (Keytruda $33B LOE end-2028 covered by intismeran mRNA, Winrevair $9.1B peak, sac-TMT $4.3B peak, tulisokibart TL1A; +43% YTD), bearish BMS (Opdivo $10B + Eliquis $14.4B = ~half revenue; Cobenfy $155M, milvexian delayed, admilparant liver overhang). https://www.biospace.com/business/bmo-most-bullish-on-mercks-bearish-on-bms-plans-to-contend-with-patent-cliffs
-
-- **2026-10-01** — Sanofi + Regeneron $1B upfront (+$7B milestones) for 4 next-gen long-acting type-2 antibodies (lead REGN20423 anti-IL-13 Ph1 AD; IL-4xIL-13 bispecific, anti-IL-4, anti-IL-4Rα preclinical to clinic next yr; optional lunsekimig TSLPxIL-13 opt-in post-Ph3 COPD); 50-50 split; settles Dupixent audit suit. After amlitelimab/itepekimab axed July; Dupixent $17.8B, US patent 2031. https://www.biospace.com/business/sanofi-pays-regeneron-1b-upfront-to-continue-search-for-dupixent-successor
-
-- **2026-10-01** — ARPA-H SURPASS + STACK/COMMONS/CINCH to overhaul US trials: phaseless design engine (digital twins), continuous inference (smaller controls), agentic ops layer; national consent architecture + site activation + patient real-world data. Framed as US-vs-China trial-leadership answer; follows TrialBlazer pilot + Elsa + 2,200-hire rebuild. https://www.biospace.com/drug-development/us-government-launches-ai-driven-programs-to-overhaul-clinical-trials
