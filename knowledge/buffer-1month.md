@@ -16,6 +16,14 @@ traced back to the document it was extracted from.
 
 ## This month
 
+- **2026-10-09** — Chai × GSK after zero-shot eval: binders to all GSK-tested targets, "strong affinities," no target-specific training; platform (folding + Chai-3 design) across GSK pipeline; 6th big-pharma expansion in 2026 (after Novartis/Pfizer/Lilly/argenx/BMS); eval-to-collab conversion complements GSK internal retrained models. https://www.biospace.com/press-releases/chai-discovery-announces-collaboration-with-gsk-following-successful-wet-lab-evaluation
+
+- **2026-10-09** — Oncomatryx OMTX305 FAP×CD3 vs CAFs (Sci Adv, n=15 lung/ovarian slices): fibroblast area 38%→24% in 3d, resident-T activation, nearby tumor death enriched, no healthy-tissue binding; heterogeneous, immune/PD-L1 selectors proposed; same TME logic as OMTX705 in clinic. https://www.biospace.com/press-releases/antibody-designed-by-spanish-biopharma-oncomatryx-shows-that-attacking-the-tumor-environment-also-kills-cancer-cells
+
+- **2026-10-09** — FDA approves Teva/Medincell WELTRUZA once-monthly SC olanzapine LAI (no loading/oral/monitoring); 2nd Medincell LAI after UZEDY 2023; mid-high-single-digit royalties + up to $112M ($4M approval); contrasts Newron evenamide hold same week (delivery win vs NME risk). https://www.biospace.com/press-releases/medincell-achieves-major-milestone-with-u-s-fda-approval-of-weltruza-olanzapine
+
+- **2026-10-09** — Natera MCED cfDNA assay FDA Breakthrough Device (12 cancers, sens/spec/CSO assessed, no numbers); speeds PMA/510(k)/De Novo; designation-stage, not validation; early-detection use case for phaseless/interception trial designs. https://www.biospace.com/press-releases/fda-grants-breakthrough-device-designation-for-nateras-multi-cancer-early-detection-assay
+
 - **2026-10-09** — TRexBio $116.7M + Retension $45M IPOs debut ($161.7M); YTD 29 vs 8 in 2025; City ~$158.3M at $18 (RNAi Maraganore) + Iambic $135M at $15–17 (Nvidia-backed AI, HER2 IAM1363) queued; TRex Lilly 5.4M-share holder. https://www.biospace.com/deals/trexbio-retension-raise-161-7m-in-ipos-city-iambic-set-proposed-offering-terms
 
 - **2026-10-09** — Viatris $1.65B Pacira ($36.50 vs $25.20) for non-opioid pain: Exparel $587M + Zilretta $121M, 340-person commercial; FAM PDUFA Dec 27 2026 (~$500M peak) bundled opioid-sparing; >$50M synergies; generics 2030/2031 overhang. https://www.biospace.com/deals/viatris-inks-1-65b-pacira-buyout-to-build-non-opioid-pain-therapy-business
@@ -87,11 +95,3 @@ traced back to the document it was extracted from.
 - **2026-10-02** — Pfizer Litfulo (ritlecitinib JAK3/TEC) Ph3 NSV win (TRANQUILLO n=2,174, largest oral-systemic vitiligo Ph3, EADV): F-VASI75 21.9%/12.5% vs ~2.4–2.5% placebo, T-VASI50 13.0%/9.0% vs ~2%; onset W24 rising to W52; filings planned FDA/EMA; oral-systemic challenge to topical/biologic paradigm. https://www.biospace.com/press-releases/pfizers-litfulo-significantly-improved-facial-and-total-body-repigmentation-in-patients-with-nonsegmental-vitiligo
 
 - **2026-10-02** — Dyno AI-designed multi-receptor AAV muscle capsids (WMS late-breaker): 5e12 vg/kg (20x below typical ~1e14); NHP ~20x biodistribution / ~40x transduction vs MyoAAV-4E, ~10x lower liver; mouse+NHP translatability by design; partners Astellas/Roche + NVIDIA. Preclinical; attacks gene-therapy safety leg directly. https://www.biospace.com/press-releases/dyno-therapeutics-presents-new-multi-mechanism-muscle-capsid-data-at-the-31st-international-congress-of-the-world-muscle-society
-
-- **2026-10-03** — Biogen litifilimab anti-BDCA2 52-wk Ph2 CLE (n=93): 27.2% clear/almost-clear, SAE 3.4%; Ph3 H1 2027; non-depleting pDC alternative to CD19 depletion. https://www.biospace.com/press-releases/biogens-litifilimab-demonstrates-rapid-and-durable-efficacy-in-new-52-week-phase-2-data-from-ongoing-phase-2-3-amethyst-study-reinforcing-its-potential-as-a-first-in-class-therapy-for-cutaneous-lupus-erythematosus
-
-- **2026-10-02** — Ultragenyx EMA validates MAA for rebisufligene etisparvovec MPS IIIA gene therapy (PRIME + Orphan, JCA scope; MHRA/SFDA next); release notes FDA approval Sep 17 2026. Transatlantic rollout of third gene-therapy wave. https://www.biospace.com/press-releases/ultragenyx-announces-marketing-authorisation-application-maa-submission-to-the-european-medicines-agency-ema-for-the-first-investigational-gene-therapy-for-mps-iiia-sanfilippo-syndrome-type-a
-
-- **2026-10-02** — Kailera/Hengrui ribupatide weekly GLP-1/GIP Ph2 PMOS (n=158, China, EASD): −20.2% (4 mg) / −15.1% (2 mg) / −10% (1 mg) at 32 wks vs −2.6% placebo; menstrual frequency up vs down on placebo; 0 SAE/discont. + HRS-4729 triple + HRS-7535 oral readouts same meeting. https://www.biospace.com/drug-development/kailera-hengruis-glp-1-gip-candidate-delivers-weight-menstrual-benefits-to-women-with-pmos
-
-- **2026-10-02** — BMO patent-cliff scorecard: most bullish Merck (Keytruda $33B LOE end-2028 covered by intismeran mRNA, Winrevair $9.1B peak, sac-TMT $4.3B peak, tulisokibart TL1A; +43% YTD), bearish BMS (Opdivo $10B + Eliquis $14.4B = ~half revenue; Cobenfy $155M, milvexian delayed, admilparant liver overhang). https://www.biospace.com/business/bmo-most-bullish-on-mercks-bearish-on-bms-plans-to-contend-with-patent-cliffs
